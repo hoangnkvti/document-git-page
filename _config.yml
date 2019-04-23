@@ -7,7 +7,3 @@ nav_order: 2
 has_children: true
 permalink: /docs/kojin/
 ---
-layout: default
-title: 基本情報
-parent: 請求者情報
----
