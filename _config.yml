@@ -5,13 +5,5 @@ layout: default
 title: 請求者情報
 nav_order: 2
 has_children: true
-permalink: /docs/kojin/base
----
-
----
-layout: default
-title: Home
-nav_order: 1
-has_children: false
-permalink: /index
+permalink: /docs/kojin/
 ---
