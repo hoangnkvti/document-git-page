@@ -1,8 +1,10 @@
 site_name: ShingakuDoc
 theme:
-  name: null
-  custom_dir: material
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
 nav:
-    - 'Introduction': 'index.md'
-    - 'User Guide': 'user-guide.md'
-    - 'About': 'about.md'
+    - 'Introduction': 'docs/kojin/base/index.md'
+    - 'Kojin Search': 'docs/kojin/base/kojin.md'
