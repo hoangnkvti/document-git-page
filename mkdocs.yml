@@ -1,6 +1,15 @@
 site_name: ShingakuDoc
 theme:
   name: 'material'
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
 nav:
     - 'Introduction': kojin/base.md
     - 'Kojin Search': kojin/kojin.md
