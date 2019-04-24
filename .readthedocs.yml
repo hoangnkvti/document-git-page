@@ -1,8 +1,9 @@
-build:
-  image: latest
-  
+# Required
+version: 2
+
 mkdocs:
   configuration: mkdocs.yml
-
+  
+formats: all
 python:
   version: 3.6
