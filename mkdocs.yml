@@ -6,5 +6,5 @@ theme:
         - yaml
         - rust
 nav:
-    - 'Introduction': docs/kojin/base.md
-    - 'Kojin Search': docs/kojin/kojin.md
+    - 'Introduction': kojin/base.md
+    - 'Kojin Search': kojin/kojin.md
